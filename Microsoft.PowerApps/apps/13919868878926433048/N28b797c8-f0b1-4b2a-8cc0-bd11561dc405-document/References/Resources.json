@@ -1,0 +1,64 @@
+{
+  "Resources": [
+    {
+      "Name": "SampleImage",
+      "Schema": "i",
+      "IsSampleData": true,
+      "IsWritable": false,
+      "Type": "ResourceInfo",
+      "FileName": "/ctrllib/image/images/SampleImage.svg",
+      "Path": "/ctrllib/image/images/SampleImage.svg",
+      "Content": "Image",
+      "ResourceKind": "Uri",
+      "RootPath": "ms-appx:///ctrllib/image/images/SampleImage.svg"
+    },
+    {
+      "Name": "Anklogo_sm",
+      "Schema": "i",
+      "IsSampleData": false,
+      "IsWritable": false,
+      "Type": "ResourceInfo",
+      "FileName": "284565e6-16dd-4e79-8fed-d5b5646baecd.png",
+      "Path": "Assets\\Images\\284565e6-16dd-4e79-8fed-d5b5646baecd.png",
+      "Content": "Image",
+      "ResourceKind": "LocalFile",
+      "RootPath": "https://docserverpaagovugva.blob.core.usgovcloudapi.net/3f18aae4-873f-4ee1-8def-32c2e176d0e2-1/resource/Assets0Images0284565e6-16dd-4e79-8fed-d5b5646baecd.png?skoid=bbd92e1b-73d8-4b7a-8e91-5ae631955a06&sktid=cab8a31a-1906-4287-a0d8-4eef66b95f6e&skt=2024-08-07T12%3A46%3A30Z&ske=2024-08-08T13%3A01%3A30Z&sks=b&skv=2023-01-03&sv=2023-01-03&spr=https&se=2024-08-08T13%3A01%3A30Z&sr=b&sp=r&sig=0xFRMdl%2Fdc%2BYkdiakhS360ugku5%2BtZt7fT1roB4UquQ%3D"
+    },
+    {
+      "Name": "US_Embassy_pin_circle_transparent (1)",
+      "Schema": "i",
+      "IsSampleData": false,
+      "IsWritable": false,
+      "Type": "ResourceInfo",
+      "FileName": "86338364-3eef-4727-9257-f74f99fc79e0.png",
+      "Path": "Assets\\Images\\86338364-3eef-4727-9257-f74f99fc79e0.png",
+      "Content": "Image",
+      "ResourceKind": "LocalFile",
+      "RootPath": "https://docserverpaagovugva.blob.core.usgovcloudapi.net/3f18aae4-873f-4ee1-8def-32c2e176d0e2-1/resource/Assets0Images086338364-3eef-4727-9257-f74f99fc79e0.png?skoid=bbd92e1b-73d8-4b7a-8e91-5ae631955a06&sktid=cab8a31a-1906-4287-a0d8-4eef66b95f6e&skt=2024-08-07T12%3A46%3A30Z&ske=2024-08-08T13%3A01%3A30Z&sks=b&skv=2023-01-03&sv=2023-01-03&spr=https&se=2024-08-08T13%3A01%3A30Z&sr=b&sp=r&sig=KoOmGMTSIOxxh1ZeWw6SSSKsf1hvt%2FhMrOxJ5Bg7cco%3D"
+    },
+    {
+      "Name": "official_State_department_logo_circle_transparent_corrected",
+      "Schema": "i",
+      "IsSampleData": false,
+      "IsWritable": false,
+      "Type": "ResourceInfo",
+      "FileName": "49853bb3-6732-4aad-bd16-ee7d7404a0f4.png",
+      "Path": "Assets\\Images\\49853bb3-6732-4aad-bd16-ee7d7404a0f4.png",
+      "Content": "Image",
+      "ResourceKind": "LocalFile",
+      "RootPath": "https://docserverpaagovugva.blob.core.usgovcloudapi.net/3f18aae4-873f-4ee1-8def-32c2e176d0e2-1/resource/Assets0Images049853bb3-6732-4aad-bd16-ee7d7404a0f4.png?skoid=bbd92e1b-73d8-4b7a-8e91-5ae631955a06&sktid=cab8a31a-1906-4287-a0d8-4eef66b95f6e&skt=2024-08-07T12%3A46%3A30Z&ske=2024-08-08T13%3A01%3A30Z&sks=b&skv=2023-01-03&sv=2023-01-03&spr=https&se=2024-08-08T13%3A01%3A30Z&sr=b&sp=r&sig=V2VQ58rrTv1z9hyBIo%2FeD493%2F%2BBPl3G2BtiJeyOxQzY%3D"
+    },
+    {
+      "Name": "DOS_seal_banner",
+      "Schema": "i",
+      "IsSampleData": false,
+      "IsWritable": false,
+      "Type": "ResourceInfo",
+      "FileName": "0fac830d-6ba0-4b71-8230-17a6ac9d5874.png",
+      "Path": "Assets\\Images\\0fac830d-6ba0-4b71-8230-17a6ac9d5874.png",
+      "Content": "Image",
+      "ResourceKind": "LocalFile",
+      "RootPath": "https://docserverpaagovugva.blob.core.usgovcloudapi.net/3f18aae4-873f-4ee1-8def-32c2e176d0e2-1/resource/Assets0Images00fac830d-6ba0-4b71-8230-17a6ac9d5874.png?skoid=bbd92e1b-73d8-4b7a-8e91-5ae631955a06&sktid=cab8a31a-1906-4287-a0d8-4eef66b95f6e&skt=2024-08-07T12%3A46%3A30Z&ske=2024-08-08T13%3A01%3A30Z&sks=b&skv=2023-01-03&sv=2023-01-03&spr=https&se=2024-08-08T13%3A01%3A30Z&sr=b&sp=r&sig=2tSNrZpgP4kKunyW0PGRRmmccsYydyJHQL3Py4JQa14%3D"
+    }
+  ]
+}
